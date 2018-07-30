@@ -13,6 +13,7 @@ countdown(10)
 
 def countdown_with_sleep(int)
   sleep(int)
+  puts "test"
   end
   "HAPPY NEW YEAR"
 end
