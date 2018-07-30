@@ -1,6 +1,5 @@
 #write your code here
-
-# def countdown(int)
+def countdown(int)
 #   count = 0
 #   while int >= count
 #   puts "#{int} SECOND(S)!"
@@ -8,6 +7,7 @@
 #   end
 #   "HAPPY NEW YEAR!"
 # end
+# 
 
 
 def countdown_with_sleep(int)
