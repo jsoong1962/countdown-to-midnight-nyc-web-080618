@@ -14,13 +14,13 @@ countdown(10)
 def countdown_with_sleep(int)
   count = 0
   while int >= count
-  int -= 1
-  puts "#{int} SECOND(S)!
+  int -= leep(1)
+  puts "#{int} SECOND(S)!"
   end
   "HAPPY NEW YEAR"
 end
 
-countdown_with_sleep(7)
+
 
 
 
