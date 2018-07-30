@@ -12,6 +12,9 @@ end
 countdown(10)
 
 def countdown_with_sleep(int)
+  count = 0
+  second = sleep(int)
+  while second >= 0
   sleep(int)
   puts "test"
   end
