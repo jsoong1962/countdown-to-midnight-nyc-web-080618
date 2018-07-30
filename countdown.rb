@@ -9,6 +9,6 @@ def countdown(int)
   "HAPPY NEW YEAR!"
 end
 
-countdown(10)
+
 
 
