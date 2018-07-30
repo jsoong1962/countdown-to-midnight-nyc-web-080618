@@ -9,7 +9,6 @@ def countdown(int)
   "HAPPY NEW YEAR!"
 end
 
-countdown(10)
 
 def countdown_with_sleep(int)
   count = 0
