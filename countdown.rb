@@ -1,8 +1,8 @@
 #write your code here
 
 def countdown(int)
-  counter = 0
-  while counter < int 
+  counter = 1
+  while counter <= int 
   puts "#{counter} SECOND(S)!"
   counter += 1
   end
